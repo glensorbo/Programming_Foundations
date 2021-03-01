@@ -41,7 +41,7 @@ var pets = [
 
 3.  Write code that does the following: When the button in the HTML is clicked, change the colour of the h2 element to "blue" and change it to read "Updated subheading".
 
-## Module 3
+## Course Assignment
 
 ### Level 1 - Mandatory
 
